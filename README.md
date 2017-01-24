@@ -1,5 +1,4 @@
 # Zenith
-A place to gain 
 
 
 hi all!
